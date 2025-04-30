@@ -1,6 +1,12 @@
 # Node modules
 node_modules/
 
+# Ignore specific view files
+views/fashion.ejs
+views/photography.ejs
+views/travel.ejs
+views/single.ejs
+
 # Logs
 logs/
 *.log
